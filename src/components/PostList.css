@@ -1,0 +1,23 @@
+.post-actions {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+  }
+  
+  .post-actions button {
+    padding: 5px 10px;
+    cursor: pointer;
+    border: none;
+    background-color: #f44336; 
+    color: white;
+    border-radius: 4px;
+  }
+  
+  .post-actions button:first-child {
+    background-color: #4CAF50;
+  }
+  
+  .post-actions button:hover {
+    opacity: 0.8;
+  }
+  
